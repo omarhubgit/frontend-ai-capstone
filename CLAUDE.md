@@ -13,3 +13,4 @@
 - Use meaningful variable names.
 - Keep files organized.
 - Use Conventional Commits.
+- Follow consistent formatting.
