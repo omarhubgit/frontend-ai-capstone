@@ -13,3 +13,7 @@ This repository contains my work for the Frontend AI Engineering internship.
 ## Goal
 
 Learn AI-assisted frontend development.
+
+## Author
+
+Omar Abdullah
